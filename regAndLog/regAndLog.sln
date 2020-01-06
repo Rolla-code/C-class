@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "regAndLog", "regAndLog\regAndLog.csproj", "{E92AA0FE-86A6-478A-9134-D3762113AD6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92AA0FE-86A6-478A-9134-D3762113AD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92AA0FE-86A6-478A-9134-D3762113AD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92AA0FE-86A6-478A-9134-D3762113AD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92AA0FE-86A6-478A-9134-D3762113AD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FEBE952-1F47-4D37-9552-68D0AE4B8D12}
+	EndGlobalSection
+EndGlobal

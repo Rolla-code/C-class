@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\regAndLog\regAndLog\bin\Debug\netcoreapp3.1\regAndLog.exe
+C:\Users\Rolland\source\repos\regAndLog\regAndLog\bin\Debug\netcoreapp3.1\regAndLog.deps.json
+C:\Users\Rolland\source\repos\regAndLog\regAndLog\bin\Debug\netcoreapp3.1\regAndLog.runtimeconfig.json
+C:\Users\Rolland\source\repos\regAndLog\regAndLog\bin\Debug\netcoreapp3.1\regAndLog.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\regAndLog\regAndLog\bin\Debug\netcoreapp3.1\regAndLog.dll
+C:\Users\Rolland\source\repos\regAndLog\regAndLog\bin\Debug\netcoreapp3.1\regAndLog.pdb
+C:\Users\Rolland\source\repos\regAndLog\regAndLog\obj\Debug\netcoreapp3.1\regAndLog.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\regAndLog\regAndLog\obj\Debug\netcoreapp3.1\regAndLog.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\regAndLog\regAndLog\obj\Debug\netcoreapp3.1\regAndLog.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\regAndLog\regAndLog\obj\Debug\netcoreapp3.1\regAndLog.dll
+C:\Users\Rolland\source\repos\regAndLog\regAndLog\obj\Debug\netcoreapp3.1\regAndLog.pdb

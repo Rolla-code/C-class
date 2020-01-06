@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\surfaceArea\surfaceArea\bin\Debug\netcoreapp3.1\surfaceArea.exe
+C:\Users\Rolland\source\repos\surfaceArea\surfaceArea\bin\Debug\netcoreapp3.1\surfaceArea.deps.json
+C:\Users\Rolland\source\repos\surfaceArea\surfaceArea\bin\Debug\netcoreapp3.1\surfaceArea.runtimeconfig.json
+C:\Users\Rolland\source\repos\surfaceArea\surfaceArea\bin\Debug\netcoreapp3.1\surfaceArea.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\surfaceArea\surfaceArea\bin\Debug\netcoreapp3.1\surfaceArea.dll
+C:\Users\Rolland\source\repos\surfaceArea\surfaceArea\bin\Debug\netcoreapp3.1\surfaceArea.pdb
+C:\Users\Rolland\source\repos\surfaceArea\surfaceArea\obj\Debug\netcoreapp3.1\surfaceArea.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\surfaceArea\surfaceArea\obj\Debug\netcoreapp3.1\surfaceArea.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\surfaceArea\surfaceArea\obj\Debug\netcoreapp3.1\surfaceArea.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\surfaceArea\surfaceArea\obj\Debug\netcoreapp3.1\surfaceArea.dll
+C:\Users\Rolland\source\repos\surfaceArea\surfaceArea\obj\Debug\netcoreapp3.1\surfaceArea.pdb
