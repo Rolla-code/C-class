@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\jaggedArray\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.exe
+C:\Users\Rolland\source\repos\jaggedArray\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.deps.json
+C:\Users\Rolland\source\repos\jaggedArray\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.runtimeconfig.json
+C:\Users\Rolland\source\repos\jaggedArray\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\jaggedArray\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.dll
+C:\Users\Rolland\source\repos\jaggedArray\jaggedArray\bin\Debug\netcoreapp3.1\jaggedArray.pdb
+C:\Users\Rolland\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.dll
+C:\Users\Rolland\source\repos\jaggedArray\jaggedArray\obj\Debug\netcoreapp3.1\jaggedArray.pdb

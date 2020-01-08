@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\InheritanceDemo_Posts\InheritanceDemo_Posts\bin\Debug\netcoreapp3.1\InheritanceDemo_Posts.exe
+C:\Users\Rolland\source\repos\InheritanceDemo_Posts\InheritanceDemo_Posts\bin\Debug\netcoreapp3.1\InheritanceDemo_Posts.deps.json
+C:\Users\Rolland\source\repos\InheritanceDemo_Posts\InheritanceDemo_Posts\bin\Debug\netcoreapp3.1\InheritanceDemo_Posts.runtimeconfig.json
+C:\Users\Rolland\source\repos\InheritanceDemo_Posts\InheritanceDemo_Posts\bin\Debug\netcoreapp3.1\InheritanceDemo_Posts.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\InheritanceDemo_Posts\InheritanceDemo_Posts\bin\Debug\netcoreapp3.1\InheritanceDemo_Posts.dll
+C:\Users\Rolland\source\repos\InheritanceDemo_Posts\InheritanceDemo_Posts\bin\Debug\netcoreapp3.1\InheritanceDemo_Posts.pdb
+C:\Users\Rolland\source\repos\InheritanceDemo_Posts\InheritanceDemo_Posts\obj\Debug\netcoreapp3.1\InheritanceDemo_Posts.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\InheritanceDemo_Posts\InheritanceDemo_Posts\obj\Debug\netcoreapp3.1\InheritanceDemo_Posts.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\InheritanceDemo_Posts\InheritanceDemo_Posts\obj\Debug\netcoreapp3.1\InheritanceDemo_Posts.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\InheritanceDemo_Posts\InheritanceDemo_Posts\obj\Debug\netcoreapp3.1\InheritanceDemo_Posts.dll
+C:\Users\Rolland\source\repos\InheritanceDemo_Posts\InheritanceDemo_Posts\obj\Debug\netcoreapp3.1\InheritanceDemo_Posts.pdb
