@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PolymorDemo_Cars/1.0.0": {
+        "runtime": {
+          "PolymorDemo_Cars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PolymorDemo_Cars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

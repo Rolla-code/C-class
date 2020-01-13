@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\bin\Debug\netcoreapp3.1\ReadTextFromFile.exe
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\bin\Debug\netcoreapp3.1\ReadTextFromFile.deps.json
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\bin\Debug\netcoreapp3.1\ReadTextFromFile.runtimeconfig.json
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\bin\Debug\netcoreapp3.1\ReadTextFromFile.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\bin\Debug\netcoreapp3.1\ReadTextFromFile.dll
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\bin\Debug\netcoreapp3.1\ReadTextFromFile.pdb
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\obj\Debug\netcoreapp3.1\ReadTextFromFile.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\obj\Debug\netcoreapp3.1\ReadTextFromFile.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\obj\Debug\netcoreapp3.1\ReadTextFromFile.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\obj\Debug\netcoreapp3.1\ReadTextFromFile.dll
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\obj\Debug\netcoreapp3.1\ReadTextFromFile.pdb

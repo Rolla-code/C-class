@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\ListsArraysArrayLists\ListsArraysArrayLists\bin\Debug\netcoreapp3.1\ListsArraysArrayLists.exe
+C:\Users\Rolland\source\repos\ListsArraysArrayLists\ListsArraysArrayLists\bin\Debug\netcoreapp3.1\ListsArraysArrayLists.deps.json
+C:\Users\Rolland\source\repos\ListsArraysArrayLists\ListsArraysArrayLists\bin\Debug\netcoreapp3.1\ListsArraysArrayLists.runtimeconfig.json
+C:\Users\Rolland\source\repos\ListsArraysArrayLists\ListsArraysArrayLists\bin\Debug\netcoreapp3.1\ListsArraysArrayLists.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\ListsArraysArrayLists\ListsArraysArrayLists\bin\Debug\netcoreapp3.1\ListsArraysArrayLists.dll
+C:\Users\Rolland\source\repos\ListsArraysArrayLists\ListsArraysArrayLists\bin\Debug\netcoreapp3.1\ListsArraysArrayLists.pdb
+C:\Users\Rolland\source\repos\ListsArraysArrayLists\ListsArraysArrayLists\obj\Debug\netcoreapp3.1\ListsArraysArrayLists.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\ListsArraysArrayLists\ListsArraysArrayLists\obj\Debug\netcoreapp3.1\ListsArraysArrayLists.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\ListsArraysArrayLists\ListsArraysArrayLists\obj\Debug\netcoreapp3.1\ListsArraysArrayLists.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\ListsArraysArrayLists\ListsArraysArrayLists\obj\Debug\netcoreapp3.1\ListsArraysArrayLists.dll
+C:\Users\Rolland\source\repos\ListsArraysArrayLists\ListsArraysArrayLists\obj\Debug\netcoreapp3.1\ListsArraysArrayLists.pdb

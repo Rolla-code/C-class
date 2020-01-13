@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\bin\Debug\netcoreapp3.1\ReadAndWriteFile.exe
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\bin\Debug\netcoreapp3.1\ReadAndWriteFile.deps.json
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\bin\Debug\netcoreapp3.1\ReadAndWriteFile.runtimeconfig.json
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\bin\Debug\netcoreapp3.1\ReadAndWriteFile.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\bin\Debug\netcoreapp3.1\ReadAndWriteFile.dll
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\bin\Debug\netcoreapp3.1\ReadAndWriteFile.pdb
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\obj\Debug\netcoreapp3.1\ReadAndWriteFile.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\obj\Debug\netcoreapp3.1\ReadAndWriteFile.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\obj\Debug\netcoreapp3.1\ReadAndWriteFile.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\obj\Debug\netcoreapp3.1\ReadAndWriteFile.dll
+C:\Users\Rolland\source\repos\ReadTextFromFile\ReadTextFromFile\obj\Debug\netcoreapp3.1\ReadAndWriteFile.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\PolymorDemo_Cars\PolymorDemo_Cars\obj\Debug\netcoreapp3.1\PolymorDemo_Cars.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\PolymorDemo_Cars\PolymorDemo_Cars\obj\Debug\netcoreapp3.1\PolymorDemo_Cars.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\PolymorDemo_Cars\PolymorDemo_Cars\obj\Debug\netcoreapp3.1\PolymorDemo_Cars.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\PolymorDemo_Cars\PolymorDemo_Cars\bin\Debug\netcoreapp3.1\PolymorDemo_Cars.exe
+C:\Users\Rolland\source\repos\PolymorDemo_Cars\PolymorDemo_Cars\bin\Debug\netcoreapp3.1\PolymorDemo_Cars.deps.json
+C:\Users\Rolland\source\repos\PolymorDemo_Cars\PolymorDemo_Cars\bin\Debug\netcoreapp3.1\PolymorDemo_Cars.runtimeconfig.json
+C:\Users\Rolland\source\repos\PolymorDemo_Cars\PolymorDemo_Cars\bin\Debug\netcoreapp3.1\PolymorDemo_Cars.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\PolymorDemo_Cars\PolymorDemo_Cars\bin\Debug\netcoreapp3.1\PolymorDemo_Cars.dll
+C:\Users\Rolland\source\repos\PolymorDemo_Cars\PolymorDemo_Cars\bin\Debug\netcoreapp3.1\PolymorDemo_Cars.pdb
+C:\Users\Rolland\source\repos\PolymorDemo_Cars\PolymorDemo_Cars\obj\Debug\netcoreapp3.1\PolymorDemo_Cars.dll
+C:\Users\Rolland\source\repos\PolymorDemo_Cars\PolymorDemo_Cars\obj\Debug\netcoreapp3.1\PolymorDemo_Cars.pdb

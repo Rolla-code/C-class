@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\LambdaProg\LambdaProg\bin\Debug\netcoreapp3.1\LambdaProg.exe
+C:\Users\Rolland\source\repos\LambdaProg\LambdaProg\bin\Debug\netcoreapp3.1\LambdaProg.deps.json
+C:\Users\Rolland\source\repos\LambdaProg\LambdaProg\bin\Debug\netcoreapp3.1\LambdaProg.runtimeconfig.json
+C:\Users\Rolland\source\repos\LambdaProg\LambdaProg\bin\Debug\netcoreapp3.1\LambdaProg.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\LambdaProg\LambdaProg\bin\Debug\netcoreapp3.1\LambdaProg.dll
+C:\Users\Rolland\source\repos\LambdaProg\LambdaProg\bin\Debug\netcoreapp3.1\LambdaProg.pdb
+C:\Users\Rolland\source\repos\LambdaProg\LambdaProg\obj\Debug\netcoreapp3.1\LambdaProg.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\LambdaProg\LambdaProg\obj\Debug\netcoreapp3.1\LambdaProg.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\LambdaProg\LambdaProg\obj\Debug\netcoreapp3.1\LambdaProg.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\LambdaProg\LambdaProg\obj\Debug\netcoreapp3.1\LambdaProg.dll
+C:\Users\Rolland\source\repos\LambdaProg\LambdaProg\obj\Debug\netcoreapp3.1\LambdaProg.pdb

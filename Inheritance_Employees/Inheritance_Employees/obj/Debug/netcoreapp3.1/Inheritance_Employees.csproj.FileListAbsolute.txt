@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\Inheritance_Employees\Inheritance_Employees\bin\Debug\netcoreapp3.1\Inheritance_Employees.exe
+C:\Users\Rolland\source\repos\Inheritance_Employees\Inheritance_Employees\bin\Debug\netcoreapp3.1\Inheritance_Employees.deps.json
+C:\Users\Rolland\source\repos\Inheritance_Employees\Inheritance_Employees\bin\Debug\netcoreapp3.1\Inheritance_Employees.runtimeconfig.json
+C:\Users\Rolland\source\repos\Inheritance_Employees\Inheritance_Employees\bin\Debug\netcoreapp3.1\Inheritance_Employees.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\Inheritance_Employees\Inheritance_Employees\bin\Debug\netcoreapp3.1\Inheritance_Employees.dll
+C:\Users\Rolland\source\repos\Inheritance_Employees\Inheritance_Employees\bin\Debug\netcoreapp3.1\Inheritance_Employees.pdb
+C:\Users\Rolland\source\repos\Inheritance_Employees\Inheritance_Employees\obj\Debug\netcoreapp3.1\Inheritance_Employees.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\Inheritance_Employees\Inheritance_Employees\obj\Debug\netcoreapp3.1\Inheritance_Employees.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\Inheritance_Employees\Inheritance_Employees\obj\Debug\netcoreapp3.1\Inheritance_Employees.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\Inheritance_Employees\Inheritance_Employees\obj\Debug\netcoreapp3.1\Inheritance_Employees.dll
+C:\Users\Rolland\source\repos\Inheritance_Employees\Inheritance_Employees\obj\Debug\netcoreapp3.1\Inheritance_Employees.pdb
