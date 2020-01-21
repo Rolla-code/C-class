@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\RandomClass_Demo\RandomClass_Demo\bin\Debug\netcoreapp3.1\RandomClass_Demo.exe
+C:\Users\Rolland\source\repos\RandomClass_Demo\RandomClass_Demo\bin\Debug\netcoreapp3.1\RandomClass_Demo.deps.json
+C:\Users\Rolland\source\repos\RandomClass_Demo\RandomClass_Demo\bin\Debug\netcoreapp3.1\RandomClass_Demo.runtimeconfig.json
+C:\Users\Rolland\source\repos\RandomClass_Demo\RandomClass_Demo\bin\Debug\netcoreapp3.1\RandomClass_Demo.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\RandomClass_Demo\RandomClass_Demo\bin\Debug\netcoreapp3.1\RandomClass_Demo.dll
+C:\Users\Rolland\source\repos\RandomClass_Demo\RandomClass_Demo\bin\Debug\netcoreapp3.1\RandomClass_Demo.pdb
+C:\Users\Rolland\source\repos\RandomClass_Demo\RandomClass_Demo\obj\Debug\netcoreapp3.1\RandomClass_Demo.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\RandomClass_Demo\RandomClass_Demo\obj\Debug\netcoreapp3.1\RandomClass_Demo.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\RandomClass_Demo\RandomClass_Demo\obj\Debug\netcoreapp3.1\RandomClass_Demo.dll
+C:\Users\Rolland\source\repos\RandomClass_Demo\RandomClass_Demo\obj\Debug\netcoreapp3.1\RandomClass_Demo.pdb
+C:\Users\Rolland\source\repos\RandomClass_Demo\RandomClass_Demo\obj\Debug\netcoreapp3.1\RandomClass_Demo.csprojAssemblyReference.cache

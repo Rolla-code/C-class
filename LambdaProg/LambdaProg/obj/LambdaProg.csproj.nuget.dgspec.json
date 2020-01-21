@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rolland\\source\\repos\\LambdaProg\\LambdaProg\\LambdaProg.csproj": {}
+    "C:\\Users\\Rolland\\Desktop\\CSharp\\LambdaProg\\LambdaProg\\LambdaProg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rolland\\source\\repos\\LambdaProg\\LambdaProg\\LambdaProg.csproj": {
+    "C:\\Users\\Rolland\\Desktop\\CSharp\\LambdaProg\\LambdaProg\\LambdaProg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rolland\\source\\repos\\LambdaProg\\LambdaProg\\LambdaProg.csproj",
+        "projectUniqueName": "C:\\Users\\Rolland\\Desktop\\CSharp\\LambdaProg\\LambdaProg\\LambdaProg.csproj",
         "projectName": "LambdaProg",
-        "projectPath": "C:\\Users\\Rolland\\source\\repos\\LambdaProg\\LambdaProg\\LambdaProg.csproj",
+        "projectPath": "C:\\Users\\Rolland\\Desktop\\CSharp\\LambdaProg\\LambdaProg\\LambdaProg.csproj",
         "packagesPath": "C:\\Users\\Rolland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rolland\\source\\repos\\LambdaProg\\LambdaProg\\obj\\",
+        "outputPath": "C:\\Users\\Rolland\\Desktop\\CSharp\\LambdaProg\\LambdaProg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rolland\\AppData\\Roaming\\NuGet\\NuGet.Config",

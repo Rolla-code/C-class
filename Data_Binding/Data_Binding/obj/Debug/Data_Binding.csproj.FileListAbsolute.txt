@@ -1,0 +1,14 @@
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\bin\Debug\Data_Binding.exe.config
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\bin\Debug\Data_Binding.exe
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\bin\Debug\Data_Binding.pdb
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\obj\Debug\Data_Binding.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\obj\Debug\MainWindow.g.cs
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\obj\Debug\App.g.cs
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\obj\Debug\Data_Binding_MarkupCompile.cache
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\obj\Debug\Data_Binding_MarkupCompile.lref
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\obj\Debug\MainWindow.baml
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\obj\Debug\Data_Binding.g.resources
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\obj\Debug\Data_Binding.Properties.Resources.resources
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\obj\Debug\Data_Binding.csproj.GenerateResource.cache
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\obj\Debug\Data_Binding.exe
+C:\Users\Rolland\source\repos\Data_Binding\Data_Binding\obj\Debug\Data_Binding.pdb

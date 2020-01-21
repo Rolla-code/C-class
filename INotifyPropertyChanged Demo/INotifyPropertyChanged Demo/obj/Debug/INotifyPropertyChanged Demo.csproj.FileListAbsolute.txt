@@ -1,0 +1,14 @@
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\obj\Debug\INotifyPropertyChanged Demo.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\obj\Debug\MainWindow.g.cs
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\obj\Debug\App.g.cs
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\obj\Debug\INotifyPropertyChanged Demo_MarkupCompile.cache
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\obj\Debug\INotifyPropertyChanged Demo_MarkupCompile.lref
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\bin\Debug\INotifyPropertyChanged Demo.exe.config
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\bin\Debug\INotifyPropertyChanged Demo.exe
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\bin\Debug\INotifyPropertyChanged Demo.pdb
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\obj\Debug\MainWindow.baml
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\obj\Debug\INotifyPropertyChanged Demo.g.resources
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\obj\Debug\INotifyPropertyChanged_Demo.Properties.Resources.resources
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\obj\Debug\INotifyPropertyChanged Demo.csproj.GenerateResource.cache
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\obj\Debug\INotifyPropertyChanged Demo.exe
+C:\Users\Rolland\source\repos\INotifyPropertyChanged Demo\INotifyPropertyChanged Demo\obj\Debug\INotifyPropertyChanged Demo.pdb

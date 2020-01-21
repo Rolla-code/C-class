@@ -1,0 +1,23 @@
+﻿<Window x:Class="CheckBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label FontWeight="Bold">Programming Languages</Label>
+        <CheckBox Name="cbAllLang" IsThreeState="True" Checked="allCheckedChanged" Unchecked="allCheckedChanged">Check all</CheckBox>
+        <StackPanel Margin="10">
+            <CheckBox Name="cbCSharp" Checked="singleCheckedChanged" Unchecked="singleCheckedChanged">
+                <TextBlock>
+                    C# <Run Foreground="Blue" FontWeight="Bold">(Preferred)</Run>
+                </TextBlock>
+            </CheckBox>
+            <CheckBox Name="cbPython" Checked="singleCheckedChanged" Unchecked="singleCheckedChanged">Python</CheckBox>
+            <CheckBox Name="cbJava" Checked="singleCheckedChanged" Unchecked="singleCheckedChanged">Java</CheckBox>
+            <CheckBox Name="cbJavascript" Checked="singleCheckedChanged" Unchecked="singleCheckedChanged">Javascript</CheckBox>
+        </StackPanel>
+    </StackPanel>
+</Window>

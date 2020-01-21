@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\RegularExpr\RegularExpr\bin\Debug\netcoreapp3.1\RegularExpr.exe
+C:\Users\Rolland\source\repos\RegularExpr\RegularExpr\bin\Debug\netcoreapp3.1\RegularExpr.deps.json
+C:\Users\Rolland\source\repos\RegularExpr\RegularExpr\bin\Debug\netcoreapp3.1\RegularExpr.runtimeconfig.json
+C:\Users\Rolland\source\repos\RegularExpr\RegularExpr\bin\Debug\netcoreapp3.1\RegularExpr.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\RegularExpr\RegularExpr\bin\Debug\netcoreapp3.1\RegularExpr.dll
+C:\Users\Rolland\source\repos\RegularExpr\RegularExpr\bin\Debug\netcoreapp3.1\RegularExpr.pdb
+C:\Users\Rolland\source\repos\RegularExpr\RegularExpr\obj\Debug\netcoreapp3.1\RegularExpr.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\RegularExpr\RegularExpr\obj\Debug\netcoreapp3.1\RegularExpr.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\RegularExpr\RegularExpr\obj\Debug\netcoreapp3.1\RegularExpr.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\RegularExpr\RegularExpr\obj\Debug\netcoreapp3.1\RegularExpr.dll
+C:\Users\Rolland\source\repos\RegularExpr\RegularExpr\obj\Debug\netcoreapp3.1\RegularExpr.pdb

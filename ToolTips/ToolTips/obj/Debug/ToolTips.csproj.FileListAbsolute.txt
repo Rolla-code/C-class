@@ -1,0 +1,14 @@
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\bin\Debug\ToolTips.exe.config
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\bin\Debug\ToolTips.exe
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\bin\Debug\ToolTips.pdb
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\obj\Debug\ToolTips.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\obj\Debug\MainWindow.g.cs
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\obj\Debug\App.g.cs
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\obj\Debug\ToolTips_MarkupCompile.cache
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\obj\Debug\ToolTips_MarkupCompile.lref
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\obj\Debug\MainWindow.baml
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\obj\Debug\ToolTips.g.resources
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\obj\Debug\ToolTips.Properties.Resources.resources
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\obj\Debug\ToolTips.csproj.GenerateResource.cache
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\obj\Debug\ToolTips.exe
+C:\Users\Rolland\source\repos\ToolTips\ToolTips\obj\Debug\ToolTips.pdb

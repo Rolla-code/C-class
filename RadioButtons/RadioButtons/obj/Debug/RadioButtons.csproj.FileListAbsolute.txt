@@ -1,0 +1,14 @@
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\bin\Debug\RadioButtons.exe.config
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\bin\Debug\RadioButtons.exe
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\bin\Debug\RadioButtons.pdb
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\obj\Debug\MainWindow.g.cs
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\obj\Debug\App.g.cs
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\obj\Debug\RadioButtons_MarkupCompile.cache
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\obj\Debug\RadioButtons_MarkupCompile.lref
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\obj\Debug\MainWindow.baml
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\obj\Debug\RadioButtons.g.resources
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\obj\Debug\RadioButtons.Properties.Resources.resources
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\obj\Debug\RadioButtons.csproj.GenerateResource.cache
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\obj\Debug\RadioButtons.exe
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\obj\Debug\RadioButtons.pdb
+C:\Users\Rolland\source\repos\RadioButtons\RadioButtons\obj\Debug\RadioButtons.csprojAssemblyReference.cache

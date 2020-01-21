@@ -1,0 +1,14 @@
+C:\Users\Rolland\source\repos\Grid\Grid\bin\Debug\Grid.exe.config
+C:\Users\Rolland\source\repos\Grid\Grid\bin\Debug\Grid.exe
+C:\Users\Rolland\source\repos\Grid\Grid\bin\Debug\Grid.pdb
+C:\Users\Rolland\source\repos\Grid\Grid\obj\Debug\Grid.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\Grid\Grid\obj\Debug\MainWindow.g.cs
+C:\Users\Rolland\source\repos\Grid\Grid\obj\Debug\App.g.cs
+C:\Users\Rolland\source\repos\Grid\Grid\obj\Debug\Grid_MarkupCompile.cache
+C:\Users\Rolland\source\repos\Grid\Grid\obj\Debug\Grid_MarkupCompile.lref
+C:\Users\Rolland\source\repos\Grid\Grid\obj\Debug\MainWindow.baml
+C:\Users\Rolland\source\repos\Grid\Grid\obj\Debug\Grid.g.resources
+C:\Users\Rolland\source\repos\Grid\Grid\obj\Debug\Grid.Properties.Resources.resources
+C:\Users\Rolland\source\repos\Grid\Grid\obj\Debug\Grid.csproj.GenerateResource.cache
+C:\Users\Rolland\source\repos\Grid\Grid\obj\Debug\Grid.exe
+C:\Users\Rolland\source\repos\Grid\Grid\obj\Debug\Grid.pdb

@@ -1,0 +1,14 @@
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\bin\Debug\RoutedEvents.exe.config
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\bin\Debug\RoutedEvents.exe
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\bin\Debug\RoutedEvents.pdb
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\obj\Debug\MainWindow.g.cs
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\obj\Debug\App.g.cs
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.cache
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.lref
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\obj\Debug\MainWindow.baml
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents.g.resources
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents.Properties.Resources.resources
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents.csproj.GenerateResource.cache
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents.exe
+C:\Users\Rolland\source\repos\RoutedEvents\RoutedEvents\obj\Debug\RoutedEvents.pdb

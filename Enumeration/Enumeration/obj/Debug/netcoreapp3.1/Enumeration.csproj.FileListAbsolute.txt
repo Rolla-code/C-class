@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.exe
+C:\Users\Rolland\source\repos\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.deps.json
+C:\Users\Rolland\source\repos\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.runtimeconfig.json
+C:\Users\Rolland\source\repos\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.dll
+C:\Users\Rolland\source\repos\Enumeration\Enumeration\bin\Debug\netcoreapp3.1\Enumeration.pdb
+C:\Users\Rolland\source\repos\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.dll
+C:\Users\Rolland\source\repos\Enumeration\Enumeration\obj\Debug\netcoreapp3.1\Enumeration.pdb

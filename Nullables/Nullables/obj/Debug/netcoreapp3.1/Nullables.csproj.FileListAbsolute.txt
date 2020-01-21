@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\Nullables\Nullables\bin\Debug\netcoreapp3.1\Nullables.exe
+C:\Users\Rolland\source\repos\Nullables\Nullables\bin\Debug\netcoreapp3.1\Nullables.deps.json
+C:\Users\Rolland\source\repos\Nullables\Nullables\bin\Debug\netcoreapp3.1\Nullables.runtimeconfig.json
+C:\Users\Rolland\source\repos\Nullables\Nullables\bin\Debug\netcoreapp3.1\Nullables.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\Nullables\Nullables\bin\Debug\netcoreapp3.1\Nullables.dll
+C:\Users\Rolland\source\repos\Nullables\Nullables\bin\Debug\netcoreapp3.1\Nullables.pdb
+C:\Users\Rolland\source\repos\Nullables\Nullables\obj\Debug\netcoreapp3.1\Nullables.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\Nullables\Nullables\obj\Debug\netcoreapp3.1\Nullables.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\Nullables\Nullables\obj\Debug\netcoreapp3.1\Nullables.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\Nullables\Nullables\obj\Debug\netcoreapp3.1\Nullables.dll
+C:\Users\Rolland\source\repos\Nullables\Nullables\obj\Debug\netcoreapp3.1\Nullables.pdb

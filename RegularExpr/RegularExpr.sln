@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpr", "RegularExpr\RegularExpr.csproj", "{BAD43B5C-49F8-4600-BB04-B8FA97A64C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD43B5C-49F8-4600-BB04-B8FA97A64C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD43B5C-49F8-4600-BB04-B8FA97A64C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD43B5C-49F8-4600-BB04-B8FA97A64C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD43B5C-49F8-4600-BB04-B8FA97A64C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90AC7619-5DF5-44DE-AB94-F201A2E3C36D}
+	EndGlobalSection
+EndGlobal

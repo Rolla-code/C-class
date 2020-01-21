@@ -1,0 +1,11 @@
+C:\Users\Rolland\source\repos\MathsClass_Demo\MathsClass_Demo\bin\Debug\netcoreapp3.1\MathsClass_Demo.exe
+C:\Users\Rolland\source\repos\MathsClass_Demo\MathsClass_Demo\bin\Debug\netcoreapp3.1\MathsClass_Demo.deps.json
+C:\Users\Rolland\source\repos\MathsClass_Demo\MathsClass_Demo\bin\Debug\netcoreapp3.1\MathsClass_Demo.runtimeconfig.json
+C:\Users\Rolland\source\repos\MathsClass_Demo\MathsClass_Demo\bin\Debug\netcoreapp3.1\MathsClass_Demo.runtimeconfig.dev.json
+C:\Users\Rolland\source\repos\MathsClass_Demo\MathsClass_Demo\bin\Debug\netcoreapp3.1\MathsClass_Demo.dll
+C:\Users\Rolland\source\repos\MathsClass_Demo\MathsClass_Demo\bin\Debug\netcoreapp3.1\MathsClass_Demo.pdb
+C:\Users\Rolland\source\repos\MathsClass_Demo\MathsClass_Demo\obj\Debug\netcoreapp3.1\MathsClass_Demo.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\MathsClass_Demo\MathsClass_Demo\obj\Debug\netcoreapp3.1\MathsClass_Demo.AssemblyInfoInputs.cache
+C:\Users\Rolland\source\repos\MathsClass_Demo\MathsClass_Demo\obj\Debug\netcoreapp3.1\MathsClass_Demo.AssemblyInfo.cs
+C:\Users\Rolland\source\repos\MathsClass_Demo\MathsClass_Demo\obj\Debug\netcoreapp3.1\MathsClass_Demo.dll
+C:\Users\Rolland\source\repos\MathsClass_Demo\MathsClass_Demo\obj\Debug\netcoreapp3.1\MathsClass_Demo.pdb
