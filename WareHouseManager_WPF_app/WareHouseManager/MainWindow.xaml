@@ -1,0 +1,26 @@
+﻿<Window x:Class="WareHouseManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WareHouseManager"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Aquamarine">
+        <Label Content="Ware Houses" HorizontalAlignment="Left" Margin="69,7,0,0" VerticalAlignment="Top" Width="104"/>
+        <ListBox Name="WhList"  HorizontalAlignment="Left" Height="214" Margin="36,36,0,0" VerticalAlignment="Top" Width="160" SelectionChanged="WhList_SelectionChanged"/>
+        <Label Content="Associated Stock" HorizontalAlignment="Left" Margin="287,7,0,0" VerticalAlignment="Top" Width="104"/>
+        <ListBox x:Name="ListAS"  HorizontalAlignment="Left" Height="214" Margin="260,36,0,0" VerticalAlignment="Top" Width="160"/>
+        <Button HorizontalAlignment="Left" Margin="470,0,0,0" Content="Add Stock To Warehouse" VerticalAlignment="Top" Width="160" Height="35" Click="AddStockToWH_Click"/>
+        <ListBox x:Name="ListStock"  HorizontalAlignment="Left" Height="318" Margin="470,36,0,0" VerticalAlignment="Top" Width="160" SelectionChanged="StockList_SelectionChanged"/>
+        <Button Content="Add Warehouse" HorizontalAlignment="Left" Margin="36,295,0,0" VerticalAlignment="Top" Width="160" Height="35" Click="AddWh_Click"/>
+        <Button Content="Add New Stock" HorizontalAlignment="Left" Margin="260,295,0,0" VerticalAlignment="Top" Width="160" Height="35" Click="AddNewStock_Click"/>
+        <Button Content="Delete Warehouse" HorizontalAlignment="Left" Margin="36,334,0,0" VerticalAlignment="Top" Width="160" Height="35" Click="DeleteWh_Click"/>
+        <Button Content="Remove Stock" HorizontalAlignment="Left" Margin="260,334,0,0" VerticalAlignment="Top" Width="160" Height="35" Click="RemoveStock_Click"/>
+        <Button Content="Update Warehouse" HorizontalAlignment="Left" Margin="36,374,0,0" VerticalAlignment="Top" Width="160" Height="35" Click="UpdateWarehouseClick"/>
+        <Button Content="Update Stock" HorizontalAlignment="Left" Margin="260,374,0,0" VerticalAlignment="Top" Width="160" Height="35" Click="UpdateStock_Click"/>
+        <Button Content="Delete Stock" HorizontalAlignment="Left" Margin="470,374,0,0" VerticalAlignment="Top" Width="160" Height="35" Click="DeleteStock_Click"/>
+        <TextBox Name="myTextbox"  HorizontalAlignment="Left" Height="33" Margin="36,256,0,0" TextWrapping="Wrap" Text="Type text here ..." VerticalAlignment="Top" Width="384"/>
+
+    </Grid>
+</Window>

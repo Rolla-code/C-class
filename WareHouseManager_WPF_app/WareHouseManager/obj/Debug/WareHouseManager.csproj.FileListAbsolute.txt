@@ -1,0 +1,14 @@
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\bin\Debug\WareHouseManager.exe.config
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\bin\Debug\WareHouseManager.exe
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\bin\Debug\WareHouseManager.pdb
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\obj\Debug\WareHouseManager.csprojAssemblyReference.cache
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\obj\Debug\MainWindow.g.cs
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\obj\Debug\App.g.cs
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\obj\Debug\WareHouseManager_MarkupCompile.cache
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\obj\Debug\WareHouseManager_MarkupCompile.lref
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\obj\Debug\MainWindow.baml
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\obj\Debug\WareHouseManager.g.resources
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\obj\Debug\WareHouseManager.Properties.Resources.resources
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\obj\Debug\WareHouseManager.csproj.GenerateResource.cache
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\obj\Debug\WareHouseManager.exe
+C:\Users\Rolland\source\repos\WareHouseManager\WareHouseManager\obj\Debug\WareHouseManager.pdb
